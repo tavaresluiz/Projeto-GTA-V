@@ -14,3 +14,7 @@
 <p>Esse é um projeto responsivo</p>
 <br>
 <br>
+<img src="https://github.com/tavaresluiz/projeto-gta-v/blob/main/src/imagens/Desktop.png?raw=true"/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
